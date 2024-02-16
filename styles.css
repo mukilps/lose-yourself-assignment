@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Your Body Font', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+  }
+  
+  header, footer, article {
+    margin: 20px;
+  }
+  
+  h1, h2 {
+    font-family: 'Your Heading Font', serif;
+    color: #0066cc;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  pre {
+    white-space: pre-wrap; 
+  }
+  
+  
